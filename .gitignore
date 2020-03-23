@@ -3,4 +3,4 @@ pi-stats.sh
 sensor_data_logger.py
 .bash_history_dht22
 telegraf.conf
-telegrah.conf.pi
+telegraf.conf.pi
